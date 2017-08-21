@@ -1,0 +1,2203 @@
+{
+  "icons": {
+    "f101": {
+      "name": "alert"
+    },
+    "f100": {
+      "name": "alert-circled"
+    },
+    "f2c7": {
+      "name": "android-add"
+    },
+    "f359": {
+      "name": "android-add-circle"
+    },
+    "f35a": {
+      "name": "android-alarm-clock"
+    },
+    "f35b": {
+      "name": "android-alert"
+    },
+    "f35c": {
+      "name": "android-apps"
+    },
+    "f2c9": {
+      "name": "android-archive"
+    },
+    "f2ca": {
+      "name": "android-arrow-back"
+    },
+    "f35d": {
+      "name": "android-arrow-down"
+    },
+    "f35f": {
+      "name": "android-arrow-dropdown"
+    },
+    "f35e": {
+      "name": "android-arrow-dropdown-circle"
+    },
+    "f361": {
+      "name": "android-arrow-dropleft"
+    },
+    "f360": {
+      "name": "android-arrow-dropleft-circle"
+    },
+    "f363": {
+      "name": "android-arrow-dropright"
+    },
+    "f362": {
+      "name": "android-arrow-dropright-circle"
+    },
+    "f365": {
+      "name": "android-arrow-dropup"
+    },
+    "f364": {
+      "name": "android-arrow-dropup-circle"
+    },
+    "f30f": {
+      "name": "android-arrow-forward"
+    },
+    "f366": {
+      "name": "android-arrow-up"
+    },
+    "f367": {
+      "name": "android-attach"
+    },
+    "f368": {
+      "name": "android-bar"
+    },
+    "f369": {
+      "name": "android-bicycle"
+    },
+    "f36a": {
+      "name": "android-boat"
+    },
+    "f36b": {
+      "name": "android-bookmark"
+    },
+    "f36c": {
+      "name": "android-bulb"
+    },
+    "f36d": {
+      "name": "android-bus"
+    },
+    "f2d1": {
+      "name": "android-calendar"
+    },
+    "f2d2": {
+      "name": "android-call"
+    },
+    "f2d3": {
+      "name": "android-camera"
+    },
+    "f36e": {
+      "name": "android-cancel"
+    },
+    "f36f": {
+      "name": "android-car"
+    },
+    "f370": {
+      "name": "android-cart"
+    },
+    "f2d4": {
+      "name": "android-chat"
+    },
+    "f374": {
+      "name": "android-checkbox"
+    },
+    "f371": {
+      "name": "android-checkbox-blank"
+    },
+    "f373": {
+      "name": "android-checkbox-outline"
+    },
+    "f372": {
+      "name": "android-checkbox-outline-blank"
+    },
+    "f375": {
+      "name": "android-checkmark-circle"
+    },
+    "f376": {
+      "name": "android-clipboard"
+    },
+    "f2d7": {
+      "name": "android-close"
+    },
+    "f37a": {
+      "name": "android-cloud"
+    },
+    "f377": {
+      "name": "android-cloud-circle"
+    },
+    "f378": {
+      "name": "android-cloud-done"
+    },
+    "f379": {
+      "name": "android-cloud-outline"
+    },
+    "f37b": {
+      "name": "android-color-palette"
+    },
+    "f37c": {
+      "name": "android-compass"
+    },
+    "f2d8": {
+      "name": "android-contact"
+    },
+    "f2d9": {
+      "name": "android-contacts"
+    },
+    "f37d": {
+      "name": "android-contract"
+    },
+    "f37e": {
+      "name": "android-create"
+    },
+    "f37f": {
+      "name": "android-delete"
+    },
+    "f380": {
+      "name": "android-desktop"
+    },
+    "f381": {
+      "name": "android-document"
+    },
+    "f383": {
+      "name": "android-done"
+    },
+    "f382": {
+      "name": "android-done-all"
+    },
+    "f2dd": {
+      "name": "android-download"
+    },
+    "f384": {
+      "name": "android-drafts"
+    },
+    "f385": {
+      "name": "android-exit"
+    },
+    "f386": {
+      "name": "android-expand"
+    },
+    "f388": {
+      "name": "android-favorite"
+    },
+    "f387": {
+      "name": "android-favorite-outline"
+    },
+    "f389": {
+      "name": "android-film"
+    },
+    "f2e0": {
+      "name": "android-folder"
+    },
+    "f38a": {
+      "name": "android-folder-open"
+    },
+    "f38b": {
+      "name": "android-funnel"
+    },
+    "f38c": {
+      "name": "android-globe"
+    },
+    "f2e3": {
+      "name": "android-hand"
+    },
+    "f38d": {
+      "name": "android-hangout"
+    },
+    "f38e": {
+      "name": "android-happy"
+    },
+    "f38f": {
+      "name": "android-home"
+    },
+    "f2e4": {
+      "name": "android-image"
+    },
+    "f390": {
+      "name": "android-laptop"
+    },
+    "f391": {
+      "name": "android-list"
+    },
+    "f2e9": {
+      "name": "android-locate"
+    },
+    "f392": {
+      "name": "android-lock"
+    },
+    "f2eb": {
+      "name": "android-mail"
+    },
+    "f393": {
+      "name": "android-map"
+    },
+    "f394": {
+      "name": "android-menu"
+    },
+    "f2ec": {
+      "name": "android-microphone"
+    },
+    "f395": {
+      "name": "android-microphone-off"
+    },
+    "f396": {
+      "name": "android-more-horizontal"
+    },
+    "f397": {
+      "name": "android-more-vertical"
+    },
+    "f398": {
+      "name": "android-navigate"
+    },
+    "f39b": {
+      "name": "android-notifications"
+    },
+    "f399": {
+      "name": "android-notifications-none"
+    },
+    "f39a": {
+      "name": "android-notifications-off"
+    },
+    "f39c": {
+      "name": "android-open"
+    },
+    "f39d": {
+      "name": "android-options"
+    },
+    "f39e": {
+      "name": "android-people"
+    },
+    "f3a0": {
+      "name": "android-person"
+    },
+    "f39f": {
+      "name": "android-person-add"
+    },
+    "f3a1": {
+      "name": "android-phone-landscape"
+    },
+    "f3a2": {
+      "name": "android-phone-portrait"
+    },
+    "f3a3": {
+      "name": "android-pin"
+    },
+    "f3a4": {
+      "name": "android-plane"
+    },
+    "f2f0": {
+      "name": "android-playstore"
+    },
+    "f3a5": {
+      "name": "android-print"
+    },
+    "f3a6": {
+      "name": "android-radio-button-off"
+    },
+    "f3a7": {
+      "name": "android-radio-button-on"
+    },
+    "f3a8": {
+      "name": "android-refresh"
+    },
+    "f2f4": {
+      "name": "android-remove"
+    },
+    "f3a9": {
+      "name": "android-remove-circle"
+    },
+    "f3aa": {
+      "name": "android-restaurant"
+    },
+    "f3ab": {
+      "name": "android-sad"
+    },
+    "f2f5": {
+      "name": "android-search"
+    },
+    "f2f6": {
+      "name": "android-send"
+    },
+    "f2f7": {
+      "name": "android-settings"
+    },
+    "f2f8": {
+      "name": "android-share"
+    },
+    "f3ac": {
+      "name": "android-share-alt"
+    },
+    "f2fc": {
+      "name": "android-star"
+    },
+    "f3ad": {
+      "name": "android-star-half"
+    },
+    "f3ae": {
+      "name": "android-star-outline"
+    },
+    "f2fd": {
+      "name": "android-stopwatch"
+    },
+    "f3af": {
+      "name": "android-subway"
+    },
+    "f3b0": {
+      "name": "android-sunny"
+    },
+    "f3b1": {
+      "name": "android-sync"
+    },
+    "f3b2": {
+      "name": "android-textsms"
+    },
+    "f3b3": {
+      "name": "android-time"
+    },
+    "f3b4": {
+      "name": "android-train"
+    },
+    "f3b5": {
+      "name": "android-unlock"
+    },
+    "f3b6": {
+      "name": "android-upload"
+    },
+    "f3b7": {
+      "name": "android-volume-down"
+    },
+    "f3b8": {
+      "name": "android-volume-mute"
+    },
+    "f3b9": {
+      "name": "android-volume-off"
+    },
+    "f3ba": {
+      "name": "android-volume-up"
+    },
+    "f3bb": {
+      "name": "android-walk"
+    },
+    "f3bc": {
+      "name": "android-warning"
+    },
+    "f3bd": {
+      "name": "android-watch"
+    },
+    "f305": {
+      "name": "android-wifi"
+    },
+    "f313": {
+      "name": "aperture"
+    },
+    "f102": {
+      "name": "archive"
+    },
+    "f103": {
+      "name": "arrow-down-a"
+    },
+    "f104": {
+      "name": "arrow-down-b"
+    },
+    "f105": {
+      "name": "arrow-down-c"
+    },
+    "f25e": {
+      "name": "arrow-expand"
+    },
+    "f25f": {
+      "name": "arrow-graph-down-left"
+    },
+    "f260": {
+      "name": "arrow-graph-down-right"
+    },
+    "f261": {
+      "name": "arrow-graph-up-left"
+    },
+    "f262": {
+      "name": "arrow-graph-up-right"
+    },
+    "f106": {
+      "name": "arrow-left-a"
+    },
+    "f107": {
+      "name": "arrow-left-b"
+    },
+    "f108": {
+      "name": "arrow-left-c"
+    },
+    "f263": {
+      "name": "arrow-move"
+    },
+    "f264": {
+      "name": "arrow-resize"
+    },
+    "f265": {
+      "name": "arrow-return-left"
+    },
+    "f266": {
+      "name": "arrow-return-right"
+    },
+    "f109": {
+      "name": "arrow-right-a"
+    },
+    "f10a": {
+      "name": "arrow-right-b"
+    },
+    "f10b": {
+      "name": "arrow-right-c"
+    },
+    "f267": {
+      "name": "arrow-shrink"
+    },
+    "f268": {
+      "name": "arrow-swap"
+    },
+    "f10c": {
+      "name": "arrow-up-a"
+    },
+    "f10d": {
+      "name": "arrow-up-b"
+    },
+    "f10e": {
+      "name": "arrow-up-c"
+    },
+    "f314": {
+      "name": "asterisk"
+    },
+    "f10f": {
+      "name": "at"
+    },
+    "f3bf": {
+      "name": "backspace"
+    },
+    "f3be": {
+      "name": "backspace-outline"
+    },
+    "f110": {
+      "name": "bag"
+    },
+    "f111": {
+      "name": "battery-charging"
+    },
+    "f112": {
+      "name": "battery-empty"
+    },
+    "f113": {
+      "name": "battery-full"
+    },
+    "f114": {
+      "name": "battery-half"
+    },
+    "f115": {
+      "name": "battery-low"
+    },
+    "f269": {
+      "name": "beaker"
+    },
+    "f26a": {
+      "name": "beer"
+    },
+    "f116": {
+      "name": "bluetooth"
+    },
+    "f315": {
+      "name": "bonfire"
+    },
+    "f26b": {
+      "name": "bookmark"
+    },
+    "f3c0": {
+      "name": "bowtie"
+    },
+    "f26c": {
+      "name": "briefcase"
+    },
+    "f2be": {
+      "name": "bug"
+    },
+    "f26d": {
+      "name": "calculator"
+    },
+    "f117": {
+      "name": "calendar"
+    },
+    "f118": {
+      "name": "camera"
+    },
+    "f119": {
+      "name": "card"
+    },
+    "f316": {
+      "name": "cash"
+    },
+    "f11b": {
+      "name": "chatbox"
+    },
+    "f11a": {
+      "name": "chatbox-working"
+    },
+    "f11c": {
+      "name": "chatboxes"
+    },
+    "f11e": {
+      "name": "chatbubble"
+    },
+    "f11d": {
+      "name": "chatbubble-working"
+    },
+    "f11f": {
+      "name": "chatbubbles"
+    },
+    "f122": {
+      "name": "checkmark"
+    },
+    "f120": {
+      "name": "checkmark-circled"
+    },
+    "f121": {
+      "name": "checkmark-round"
+    },
+    "f123": {
+      "name": "chevron-down"
+    },
+    "f124": {
+      "name": "chevron-left"
+    },
+    "f125": {
+      "name": "chevron-right"
+    },
+    "f126": {
+      "name": "chevron-up"
+    },
+    "f127": {
+      "name": "clipboard"
+    },
+    "f26e": {
+      "name": "clock"
+    },
+    "f12a": {
+      "name": "close"
+    },
+    "f128": {
+      "name": "close-circled"
+    },
+    "f129": {
+      "name": "close-round"
+    },
+    "f317": {
+      "name": "closed-captioning"
+    },
+    "f12b": {
+      "name": "cloud"
+    },
+    "f271": {
+      "name": "code"
+    },
+    "f26f": {
+      "name": "code-download"
+    },
+    "f270": {
+      "name": "code-working"
+    },
+    "f272": {
+      "name": "coffee"
+    },
+    "f273": {
+      "name": "compass"
+    },
+    "f12c": {
+      "name": "compose"
+    },
+    "f274": {
+      "name": "connection-bars"
+    },
+    "f275": {
+      "name": "contrast"
+    },
+    "f3c1": {
+      "name": "crop"
+    },
+    "f318": {
+      "name": "cube"
+    },
+    "f12d": {
+      "name": "disc"
+    },
+    "f12f": {
+      "name": "document"
+    },
+    "f12e": {
+      "name": "document-text"
+    },
+    "f130": {
+      "name": "drag"
+    },
+    "f276": {
+      "name": "earth"
+    },
+    "f3c2": {
+      "name": "easel"
+    },
+    "f2bf": {
+      "name": "edit"
+    },
+    "f277": {
+      "name": "egg"
+    },
+    "f131": {
+      "name": "eject"
+    },
+    "f132": {
+      "name": "email"
+    },
+    "f3c3": {
+      "name": "email-unread"
+    },
+    "f3c5": {
+      "name": "erlenmeyer-flask"
+    },
+    "f3c4": {
+      "name": "erlenmeyer-flask-bubbles"
+    },
+    "f133": {
+      "name": "eye"
+    },
+    "f306": {
+      "name": "eye-disabled"
+    },
+    "f278": {
+      "name": "female"
+    },
+    "f134": {
+      "name": "filing"
+    },
+    "f135": {
+      "name": "film-marker"
+    },
+    "f319": {
+      "name": "fireball"
+    },
+    "f279": {
+      "name": "flag"
+    },
+    "f31a": {
+      "name": "flame"
+    },
+    "f137": {
+      "name": "flash"
+    },
+    "f136": {
+      "name": "flash-off"
+    },
+    "f139": {
+      "name": "folder"
+    },
+    "f27a": {
+      "name": "fork"
+    },
+    "f2c0": {
+      "name": "fork-repo"
+    },
+    "f13a": {
+      "name": "forward"
+    },
+    "f31b": {
+      "name": "funnel"
+    },
+    "f13d": {
+      "name": "gear-a"
+    },
+    "f13e": {
+      "name": "gear-b"
+    },
+    "f13f": {
+      "name": "grid"
+    },
+    "f27b": {
+      "name": "hammer"
+    },
+    "f31c": {
+      "name": "happy"
+    },
+    "f3c6": {
+      "name": "happy-outline"
+    },
+    "f140": {
+      "name": "headphone"
+    },
+    "f141": {
+      "name": "heart"
+    },
+    "f31d": {
+      "name": "heart-broken"
+    },
+    "f143": {
+      "name": "help"
+    },
+    "f27c": {
+      "name": "help-buoy"
+    },
+    "f142": {
+      "name": "help-circled"
+    },
+    "f144": {
+      "name": "home"
+    },
+    "f27d": {
+      "name": "icecream"
+    },
+    "f147": {
+      "name": "image"
+    },
+    "f148": {
+      "name": "images"
+    },
+    "f14a": {
+      "name": "information"
+    },
+    "f149": {
+      "name": "information-circled"
+    },
+    "f14b": {
+      "name": "ionic"
+    },
+    "f3c8": {
+      "name": "ios-alarm"
+    },
+    "f3c7": {
+      "name": "ios-alarm-outline"
+    },
+    "f3ca": {
+      "name": "ios-albums"
+    },
+    "f3c9": {
+      "name": "ios-albums-outline"
+    },
+    "f3cc": {
+      "name": "ios-americanfootball"
+    },
+    "f3cb": {
+      "name": "ios-americanfootball-outline"
+    },
+    "f3ce": {
+      "name": "ios-analytics"
+    },
+    "f3cd": {
+      "name": "ios-analytics-outline"
+    },
+    "f3cf": {
+      "name": "ios-arrow-back"
+    },
+    "f3d0": {
+      "name": "ios-arrow-down"
+    },
+    "f3d1": {
+      "name": "ios-arrow-forward"
+    },
+    "f3d2": {
+      "name": "ios-arrow-left"
+    },
+    "f3d3": {
+      "name": "ios-arrow-right"
+    },
+    "f3d4": {
+      "name": "ios-arrow-thin-down"
+    },
+    "f3d5": {
+      "name": "ios-arrow-thin-left"
+    },
+    "f3d6": {
+      "name": "ios-arrow-thin-right"
+    },
+    "f3d7": {
+      "name": "ios-arrow-thin-up"
+    },
+    "f3d8": {
+      "name": "ios-arrow-up"
+    },
+    "f3da": {
+      "name": "ios-at"
+    },
+    "f3d9": {
+      "name": "ios-at-outline"
+    },
+    "f3dc": {
+      "name": "ios-barcode"
+    },
+    "f3db": {
+      "name": "ios-barcode-outline"
+    },
+    "f3de": {
+      "name": "ios-baseball"
+    },
+    "f3dd": {
+      "name": "ios-baseball-outline"
+    },
+    "f3e0": {
+      "name": "ios-basketball"
+    },
+    "f3df": {
+      "name": "ios-basketball-outline"
+    },
+    "f3e2": {
+      "name": "ios-bell"
+    },
+    "f3e1": {
+      "name": "ios-bell-outline"
+    },
+    "f3e4": {
+      "name": "ios-body"
+    },
+    "f3e3": {
+      "name": "ios-body-outline"
+    },
+    "f3e6": {
+      "name": "ios-bolt"
+    },
+    "f3e5": {
+      "name": "ios-bolt-outline"
+    },
+    "f3e8": {
+      "name": "ios-book"
+    },
+    "f3e7": {
+      "name": "ios-book-outline"
+    },
+    "f3ea": {
+      "name": "ios-bookmarks"
+    },
+    "f3e9": {
+      "name": "ios-bookmarks-outline"
+    },
+    "f3ec": {
+      "name": "ios-box"
+    },
+    "f3eb": {
+      "name": "ios-box-outline"
+    },
+    "f3ee": {
+      "name": "ios-briefcase"
+    },
+    "f3ed": {
+      "name": "ios-briefcase-outline"
+    },
+    "f3f0": {
+      "name": "ios-browsers"
+    },
+    "f3ef": {
+      "name": "ios-browsers-outline"
+    },
+    "f3f2": {
+      "name": "ios-calculator"
+    },
+    "f3f1": {
+      "name": "ios-calculator-outline"
+    },
+    "f3f4": {
+      "name": "ios-calendar"
+    },
+    "f3f3": {
+      "name": "ios-calendar-outline"
+    },
+    "f3f6": {
+      "name": "ios-camera"
+    },
+    "f3f5": {
+      "name": "ios-camera-outline"
+    },
+    "f3f8": {
+      "name": "ios-cart"
+    },
+    "f3f7": {
+      "name": "ios-cart-outline"
+    },
+    "f3fa": {
+      "name": "ios-chatboxes"
+    },
+    "f3f9": {
+      "name": "ios-chatboxes-outline"
+    },
+    "f3fc": {
+      "name": "ios-chatbubble"
+    },
+    "f3fb": {
+      "name": "ios-chatbubble-outline"
+    },
+    "f3ff": {
+      "name": "ios-checkmark"
+    },
+    "f3fd": {
+      "name": "ios-checkmark-empty"
+    },
+    "f3fe": {
+      "name": "ios-checkmark-outline"
+    },
+    "f400": {
+      "name": "ios-circle-filled"
+    },
+    "f401": {
+      "name": "ios-circle-outline"
+    },
+    "f403": {
+      "name": "ios-clock"
+    },
+    "f402": {
+      "name": "ios-clock-outline"
+    },
+    "f406": {
+      "name": "ios-close"
+    },
+    "f404": {
+      "name": "ios-close-empty"
+    },
+    "f405": {
+      "name": "ios-close-outline"
+    },
+    "f40c": {
+      "name": "ios-cloud"
+    },
+    "f408": {
+      "name": "ios-cloud-download"
+    },
+    "f407": {
+      "name": "ios-cloud-download-outline"
+    },
+    "f409": {
+      "name": "ios-cloud-outline"
+    },
+    "f40b": {
+      "name": "ios-cloud-upload"
+    },
+    "f40a": {
+      "name": "ios-cloud-upload-outline"
+    },
+    "f410": {
+      "name": "ios-cloudy"
+    },
+    "f40e": {
+      "name": "ios-cloudy-night"
+    },
+    "f40d": {
+      "name": "ios-cloudy-night-outline"
+    },
+    "f40f": {
+      "name": "ios-cloudy-outline"
+    },
+    "f412": {
+      "name": "ios-cog"
+    },
+    "f411": {
+      "name": "ios-cog-outline"
+    },
+    "f414": {
+      "name": "ios-color-filter"
+    },
+    "f413": {
+      "name": "ios-color-filter-outline"
+    },
+    "f416": {
+      "name": "ios-color-wand"
+    },
+    "f415": {
+      "name": "ios-color-wand-outline"
+    },
+    "f418": {
+      "name": "ios-compose"
+    },
+    "f417": {
+      "name": "ios-compose-outline"
+    },
+    "f41a": {
+      "name": "ios-contact"
+    },
+    "f419": {
+      "name": "ios-contact-outline"
+    },
+    "f41c": {
+      "name": "ios-copy"
+    },
+    "f41b": {
+      "name": "ios-copy-outline"
+    },
+    "f41e": {
+      "name": "ios-crop"
+    },
+    "f41d": {
+      "name": "ios-crop-strong"
+    },
+    "f420": {
+      "name": "ios-download"
+    },
+    "f41f": {
+      "name": "ios-download-outline"
+    },
+    "f421": {
+      "name": "ios-drag"
+    },
+    "f423": {
+      "name": "ios-email"
+    },
+    "f422": {
+      "name": "ios-email-outline"
+    },
+    "f425": {
+      "name": "ios-eye"
+    },
+    "f424": {
+      "name": "ios-eye-outline"
+    },
+    "f427": {
+      "name": "ios-fastforward"
+    },
+    "f426": {
+      "name": "ios-fastforward-outline"
+    },
+    "f429": {
+      "name": "ios-filing"
+    },
+    "f428": {
+      "name": "ios-filing-outline"
+    },
+    "f42b": {
+      "name": "ios-film"
+    },
+    "f42a": {
+      "name": "ios-film-outline"
+    },
+    "f42d": {
+      "name": "ios-flag"
+    },
+    "f42c": {
+      "name": "ios-flag-outline"
+    },
+    "f42f": {
+      "name": "ios-flame"
+    },
+    "f42e": {
+      "name": "ios-flame-outline"
+    },
+    "f431": {
+      "name": "ios-flask"
+    },
+    "f430": {
+      "name": "ios-flask-outline"
+    },
+    "f433": {
+      "name": "ios-flower"
+    },
+    "f432": {
+      "name": "ios-flower-outline"
+    },
+    "f435": {
+      "name": "ios-folder"
+    },
+    "f434": {
+      "name": "ios-folder-outline"
+    },
+    "f437": {
+      "name": "ios-football"
+    },
+    "f436": {
+      "name": "ios-football-outline"
+    },
+    "f439": {
+      "name": "ios-game-controller-a"
+    },
+    "f438": {
+      "name": "ios-game-controller-a-outline"
+    },
+    "f43b": {
+      "name": "ios-game-controller-b"
+    },
+    "f43a": {
+      "name": "ios-game-controller-b-outline"
+    },
+    "f43d": {
+      "name": "ios-gear"
+    },
+    "f43c": {
+      "name": "ios-gear-outline"
+    },
+    "f43f": {
+      "name": "ios-glasses"
+    },
+    "f43e": {
+      "name": "ios-glasses-outline"
+    },
+    "f441": {
+      "name": "ios-grid-view"
+    },
+    "f440": {
+      "name": "ios-grid-view-outline"
+    },
+    "f443": {
+      "name": "ios-heart"
+    },
+    "f442": {
+      "name": "ios-heart-outline"
+    },
+    "f446": {
+      "name": "ios-help"
+    },
+    "f444": {
+      "name": "ios-help-empty"
+    },
+    "f445": {
+      "name": "ios-help-outline"
+    },
+    "f448": {
+      "name": "ios-home"
+    },
+    "f447": {
+      "name": "ios-home-outline"
+    },
+    "f44a": {
+      "name": "ios-infinite"
+    },
+    "f449": {
+      "name": "ios-infinite-outline"
+    },
+    "f44d": {
+      "name": "ios-information"
+    },
+    "f44b": {
+      "name": "ios-information-empty"
+    },
+    "f44c": {
+      "name": "ios-information-outline"
+    },
+    "f44e": {
+      "name": "ios-ionic-outline"
+    },
+    "f450": {
+      "name": "ios-keypad"
+    },
+    "f44f": {
+      "name": "ios-keypad-outline"
+    },
+    "f452": {
+      "name": "ios-lightbulb"
+    },
+    "f451": {
+      "name": "ios-lightbulb-outline"
+    },
+    "f454": {
+      "name": "ios-list"
+    },
+    "f453": {
+      "name": "ios-list-outline"
+    },
+    "f456": {
+      "name": "ios-location"
+    },
+    "f455": {
+      "name": "ios-location-outline"
+    },
+    "f458": {
+      "name": "ios-locked"
+    },
+    "f457": {
+      "name": "ios-locked-outline"
+    },
+    "f45a": {
+      "name": "ios-loop"
+    },
+    "f459": {
+      "name": "ios-loop-strong"
+    },
+    "f45c": {
+      "name": "ios-medical"
+    },
+    "f45b": {
+      "name": "ios-medical-outline"
+    },
+    "f45e": {
+      "name": "ios-medkit"
+    },
+    "f45d": {
+      "name": "ios-medkit-outline"
+    },
+    "f461": {
+      "name": "ios-mic"
+    },
+    "f45f": {
+      "name": "ios-mic-off"
+    },
+    "f460": {
+      "name": "ios-mic-outline"
+    },
+    "f464": {
+      "name": "ios-minus"
+    },
+    "f462": {
+      "name": "ios-minus-empty"
+    },
+    "f463": {
+      "name": "ios-minus-outline"
+    },
+    "f466": {
+      "name": "ios-monitor"
+    },
+    "f465": {
+      "name": "ios-monitor-outline"
+    },
+    "f468": {
+      "name": "ios-moon"
+    },
+    "f467": {
+      "name": "ios-moon-outline"
+    },
+    "f46a": {
+      "name": "ios-more"
+    },
+    "f469": {
+      "name": "ios-more-outline"
+    },
+    "f46b": {
+      "name": "ios-musical-note"
+    },
+    "f46c": {
+      "name": "ios-musical-notes"
+    },
+    "f46e": {
+      "name": "ios-navigate"
+    },
+    "f46d": {
+      "name": "ios-navigate-outline"
+    },
+    "f470": {
+      "name": "ios-nutrition"
+    },
+    "f46f": {
+      "name": "ios-nutrition-outline"
+    },
+    "f472": {
+      "name": "ios-paper"
+    },
+    "f471": {
+      "name": "ios-paper-outline"
+    },
+    "f474": {
+      "name": "ios-paperplane"
+    },
+    "f473": {
+      "name": "ios-paperplane-outline"
+    },
+    "f476": {
+      "name": "ios-partlysunny"
+    },
+    "f475": {
+      "name": "ios-partlysunny-outline"
+    },
+    "f478": {
+      "name": "ios-pause"
+    },
+    "f477": {
+      "name": "ios-pause-outline"
+    },
+    "f47a": {
+      "name": "ios-paw"
+    },
+    "f479": {
+      "name": "ios-paw-outline"
+    },
+    "f47c": {
+      "name": "ios-people"
+    },
+    "f47b": {
+      "name": "ios-people-outline"
+    },
+    "f47e": {
+      "name": "ios-person"
+    },
+    "f47d": {
+      "name": "ios-person-outline"
+    },
+    "f480": {
+      "name": "ios-personadd"
+    },
+    "f47f": {
+      "name": "ios-personadd-outline"
+    },
+    "f482": {
+      "name": "ios-photos"
+    },
+    "f481": {
+      "name": "ios-photos-outline"
+    },
+    "f484": {
+      "name": "ios-pie"
+    },
+    "f483": {
+      "name": "ios-pie-outline"
+    },
+    "f486": {
+      "name": "ios-pint"
+    },
+    "f485": {
+      "name": "ios-pint-outline"
+    },
+    "f488": {
+      "name": "ios-play"
+    },
+    "f487": {
+      "name": "ios-play-outline"
+    },
+    "f48b": {
+      "name": "ios-plus"
+    },
+    "f489": {
+      "name": "ios-plus-empty"
+    },
+    "f48a": {
+      "name": "ios-plus-outline"
+    },
+    "f48d": {
+      "name": "ios-pricetag"
+    },
+    "f48c": {
+      "name": "ios-pricetag-outline"
+    },
+    "f48f": {
+      "name": "ios-pricetags"
+    },
+    "f48e": {
+      "name": "ios-pricetags-outline"
+    },
+    "f491": {
+      "name": "ios-printer"
+    },
+    "f490": {
+      "name": "ios-printer-outline"
+    },
+    "f493": {
+      "name": "ios-pulse"
+    },
+    "f492": {
+      "name": "ios-pulse-strong"
+    },
+    "f495": {
+      "name": "ios-rainy"
+    },
+    "f494": {
+      "name": "ios-rainy-outline"
+    },
+    "f497": {
+      "name": "ios-recording"
+    },
+    "f496": {
+      "name": "ios-recording-outline"
+    },
+    "f499": {
+      "name": "ios-redo"
+    },
+    "f498": {
+      "name": "ios-redo-outline"
+    },
+    "f49c": {
+      "name": "ios-refresh"
+    },
+    "f49a": {
+      "name": "ios-refresh-empty"
+    },
+    "f49b": {
+      "name": "ios-refresh-outline"
+    },
+    "f49d": {
+      "name": "ios-reload"
+    },
+    "f49f": {
+      "name": "ios-reverse-camera"
+    },
+    "f49e": {
+      "name": "ios-reverse-camera-outline"
+    },
+    "f4a1": {
+      "name": "ios-rewind"
+    },
+    "f4a0": {
+      "name": "ios-rewind-outline"
+    },
+    "f4a3": {
+      "name": "ios-rose"
+    },
+    "f4a2": {
+      "name": "ios-rose-outline"
+    },
+    "f4a5": {
+      "name": "ios-search"
+    },
+    "f4a4": {
+      "name": "ios-search-strong"
+    },
+    "f4a7": {
+      "name": "ios-settings"
+    },
+    "f4a6": {
+      "name": "ios-settings-strong"
+    },
+    "f4a9": {
+      "name": "ios-shuffle"
+    },
+    "f4a8": {
+      "name": "ios-shuffle-strong"
+    },
+    "f4ab": {
+      "name": "ios-skipbackward"
+    },
+    "f4aa": {
+      "name": "ios-skipbackward-outline"
+    },
+    "f4ad": {
+      "name": "ios-skipforward"
+    },
+    "f4ac": {
+      "name": "ios-skipforward-outline"
+    },
+    "f4ae": {
+      "name": "ios-snowy"
+    },
+    "f4b0": {
+      "name": "ios-speedometer"
+    },
+    "f4af": {
+      "name": "ios-speedometer-outline"
+    },
+    "f4b3": {
+      "name": "ios-star"
+    },
+    "f4b1": {
+      "name": "ios-star-half"
+    },
+    "f4b2": {
+      "name": "ios-star-outline"
+    },
+    "f4b5": {
+      "name": "ios-stopwatch"
+    },
+    "f4b4": {
+      "name": "ios-stopwatch-outline"
+    },
+    "f4b7": {
+      "name": "ios-sunny"
+    },
+    "f4b6": {
+      "name": "ios-sunny-outline"
+    },
+    "f4b9": {
+      "name": "ios-telephone"
+    },
+    "f4b8": {
+      "name": "ios-telephone-outline"
+    },
+    "f4bb": {
+      "name": "ios-tennisball"
+    },
+    "f4ba": {
+      "name": "ios-tennisball-outline"
+    },
+    "f4bd": {
+      "name": "ios-thunderstorm"
+    },
+    "f4bc": {
+      "name": "ios-thunderstorm-outline"
+    },
+    "f4bf": {
+      "name": "ios-time"
+    },
+    "f4be": {
+      "name": "ios-time-outline"
+    },
+    "f4c1": {
+      "name": "ios-timer"
+    },
+    "f4c0": {
+      "name": "ios-timer-outline"
+    },
+    "f4c3": {
+      "name": "ios-toggle"
+    },
+    "f4c2": {
+      "name": "ios-toggle-outline"
+    },
+    "f4c5": {
+      "name": "ios-trash"
+    },
+    "f4c4": {
+      "name": "ios-trash-outline"
+    },
+    "f4c7": {
+      "name": "ios-undo"
+    },
+    "f4c6": {
+      "name": "ios-undo-outline"
+    },
+    "f4c9": {
+      "name": "ios-unlocked"
+    },
+    "f4c8": {
+      "name": "ios-unlocked-outline"
+    },
+    "f4cb": {
+      "name": "ios-upload"
+    },
+    "f4ca": {
+      "name": "ios-upload-outline"
+    },
+    "f4cd": {
+      "name": "ios-videocam"
+    },
+    "f4cc": {
+      "name": "ios-videocam-outline"
+    },
+    "f4ce": {
+      "name": "ios-volume-high"
+    },
+    "f4cf": {
+      "name": "ios-volume-low"
+    },
+    "f4d1": {
+      "name": "ios-wineglass"
+    },
+    "f4d0": {
+      "name": "ios-wineglass-outline"
+    },
+    "f4d3": {
+      "name": "ios-world"
+    },
+    "f4d2": {
+      "name": "ios-world-outline"
+    },
+    "f1f9": {
+      "name": "ipad"
+    },
+    "f1fa": {
+      "name": "iphone"
+    },
+    "f1fb": {
+      "name": "ipod"
+    },
+    "f295": {
+      "name": "jet"
+    },
+    "f296": {
+      "name": "key"
+    },
+    "f297": {
+      "name": "knife"
+    },
+    "f1fc": {
+      "name": "laptop"
+    },
+    "f1fd": {
+      "name": "leaf"
+    },
+    "f298": {
+      "name": "levels"
+    },
+    "f299": {
+      "name": "lightbulb"
+    },
+    "f1fe": {
+      "name": "link"
+    },
+    "f29a": {
+      "name": "load-a"
+    },
+    "f29b": {
+      "name": "load-b"
+    },
+    "f29c": {
+      "name": "load-c"
+    },
+    "f29d": {
+      "name": "load-d"
+    },
+    "f1ff": {
+      "name": "location"
+    },
+    "f4d4": {
+      "name": "lock-combination"
+    },
+    "f200": {
+      "name": "locked"
+    },
+    "f29e": {
+      "name": "log-in"
+    },
+    "f29f": {
+      "name": "log-out"
+    },
+    "f201": {
+      "name": "loop"
+    },
+    "f2a0": {
+      "name": "magnet"
+    },
+    "f2a1": {
+      "name": "male"
+    },
+    "f202": {
+      "name": "man"
+    },
+    "f203": {
+      "name": "map"
+    },
+    "f2a2": {
+      "name": "medkit"
+    },
+    "f33f": {
+      "name": "merge"
+    },
+    "f204": {
+      "name": "mic-a"
+    },
+    "f205": {
+      "name": "mic-b"
+    },
+    "f206": {
+      "name": "mic-c"
+    },
+    "f209": {
+      "name": "minus"
+    },
+    "f207": {
+      "name": "minus-circled"
+    },
+    "f208": {
+      "name": "minus-round"
+    },
+    "f2c1": {
+      "name": "model-s"
+    },
+    "f20a": {
+      "name": "monitor"
+    },
+    "f20b": {
+      "name": "more"
+    },
+    "f340": {
+      "name": "mouse"
+    },
+    "f20c": {
+      "name": "music-note"
+    },
+    "f20e": {
+      "name": "navicon"
+    },
+    "f20d": {
+      "name": "navicon-round"
+    },
+    "f2a3": {
+      "name": "navigate"
+    },
+    "f341": {
+      "name": "network"
+    },
+    "f2c2": {
+      "name": "no-smoking"
+    },
+    "f2a4": {
+      "name": "nuclear"
+    },
+    "f342": {
+      "name": "outlet"
+    },
+    "f4d5": {
+      "name": "paintbrush"
+    },
+    "f4d6": {
+      "name": "paintbucket"
+    },
+    "f2c3": {
+      "name": "paper-airplane"
+    },
+    "f20f": {
+      "name": "paperclip"
+    },
+    "f210": {
+      "name": "pause"
+    },
+    "f213": {
+      "name": "person"
+    },
+    "f211": {
+      "name": "person-add"
+    },
+    "f212": {
+      "name": "person-stalker"
+    },
+    "f2a5": {
+      "name": "pie-graph"
+    },
+    "f2a6": {
+      "name": "pin"
+    },
+    "f2a7": {
+      "name": "pinpoint"
+    },
+    "f2a8": {
+      "name": "pizza"
+    },
+    "f214": {
+      "name": "plane"
+    },
+    "f343": {
+      "name": "planet"
+    },
+    "f215": {
+      "name": "play"
+    },
+    "f30a": {
+      "name": "playstation"
+    },
+    "f218": {
+      "name": "plus"
+    },
+    "f216": {
+      "name": "plus-circled"
+    },
+    "f217": {
+      "name": "plus-round"
+    },
+    "f344": {
+      "name": "podium"
+    },
+    "f219": {
+      "name": "pound"
+    },
+    "f2a9": {
+      "name": "power"
+    },
+    "f2aa": {
+      "name": "pricetag"
+    },
+    "f2ab": {
+      "name": "pricetags"
+    },
+    "f21a": {
+      "name": "printer"
+    },
+    "f345": {
+      "name": "pull-request"
+    },
+    "f346": {
+      "name": "qr-scanner"
+    },
+    "f347": {
+      "name": "quote"
+    },
+    "f2ac": {
+      "name": "radio-waves"
+    },
+    "f21b": {
+      "name": "record"
+    },
+    "f21c": {
+      "name": "refresh"
+    },
+    "f21e": {
+      "name": "reply"
+    },
+    "f21d": {
+      "name": "reply-all"
+    },
+    "f348": {
+      "name": "ribbon-a"
+    },
+    "f349": {
+      "name": "ribbon-b"
+    },
+    "f34a": {
+      "name": "sad"
+    },
+    "f4d7": {
+      "name": "sad-outline"
+    },
+    "f34b": {
+      "name": "scissors"
+    },
+    "f21f": {
+      "name": "search"
+    },
+    "f2ad": {
+      "name": "settings"
+    },
+    "f220": {
+      "name": "share"
+    },
+    "f221": {
+      "name": "shuffle"
+    },
+    "f222": {
+      "name": "skip-backward"
+    },
+    "f223": {
+      "name": "skip-forward"
+    },
+    "f225": {
+      "name": "social-android"
+    },
+    "f224": {
+      "name": "social-android-outline"
+    },
+    "f4d9": {
+      "name": "social-angular"
+    },
+    "f4d8": {
+      "name": "social-angular-outline"
+    },
+    "f227": {
+      "name": "social-apple"
+    },
+    "f226": {
+      "name": "social-apple-outline"
+    },
+    "f2af": {
+      "name": "social-bitcoin"
+    },
+    "f2ae": {
+      "name": "social-bitcoin-outline"
+    },
+    "f229": {
+      "name": "social-buffer"
+    },
+    "f228": {
+      "name": "social-buffer-outline"
+    },
+    "f4db": {
+      "name": "social-chrome"
+    },
+    "f4da": {
+      "name": "social-chrome-outline"
+    },
+    "f4dd": {
+      "name": "social-codepen"
+    },
+    "f4dc": {
+      "name": "social-codepen-outline"
+    },
+    "f4df": {
+      "name": "social-css3"
+    },
+    "f4de": {
+      "name": "social-css3-outline"
+    },
+    "f22b": {
+      "name": "social-designernews"
+    },
+    "f22a": {
+      "name": "social-designernews-outline"
+    },
+    "f22d": {
+      "name": "social-dribbble"
+    },
+    "f22c": {
+      "name": "social-dribbble-outline"
+    },
+    "f22f": {
+      "name": "social-dropbox"
+    },
+    "f22e": {
+      "name": "social-dropbox-outline"
+    },
+    "f4e1": {
+      "name": "social-euro"
+    },
+    "f4e0": {
+      "name": "social-euro-outline"
+    },
+    "f231": {
+      "name": "social-facebook"
+    },
+    "f230": {
+      "name": "social-facebook-outline"
+    },
+    "f34d": {
+      "name": "social-foursquare"
+    },
+    "f34c": {
+      "name": "social-foursquare-outline"
+    },
+    "f2c4": {
+      "name": "social-freebsd-devil"
+    },
+    "f233": {
+      "name": "social-github"
+    },
+    "f232": {
+      "name": "social-github-outline"
+    },
+    "f34f": {
+      "name": "social-google"
+    },
+    "f34e": {
+      "name": "social-google-outline"
+    },
+    "f235": {
+      "name": "social-googleplus"
+    },
+    "f234": {
+      "name": "social-googleplus-outline"
+    },
+    "f237": {
+      "name": "social-hackernews"
+    },
+    "f236": {
+      "name": "social-hackernews-outline"
+    },
+    "f4e3": {
+      "name": "social-html5"
+    },
+    "f4e2": {
+      "name": "social-html5-outline"
+    },
+    "f351": {
+      "name": "social-instagram"
+    },
+    "f350": {
+      "name": "social-instagram-outline"
+    },
+    "f4e5": {
+      "name": "social-javascript"
+    },
+    "f4e4": {
+      "name": "social-javascript-outline"
+    },
+    "f239": {
+      "name": "social-linkedin"
+    },
+    "f238": {
+      "name": "social-linkedin-outline"
+    },
+    "f4e6": {
+      "name": "social-markdown"
+    },
+    "f4e7": {
+      "name": "social-nodejs"
+    },
+    "f4e8": {
+      "name": "social-octocat"
+    },
+    "f2b1": {
+      "name": "social-pinterest"
+    },
+    "f2b0": {
+      "name": "social-pinterest-outline"
+    },
+    "f4e9": {
+      "name": "social-python"
+    },
+    "f23b": {
+      "name": "social-reddit"
+    },
+    "f23a": {
+      "name": "social-reddit-outline"
+    },
+    "f23d": {
+      "name": "social-rss"
+    },
+    "f23c": {
+      "name": "social-rss-outline"
+    },
+    "f4ea": {
+      "name": "social-sass"
+    },
+    "f23f": {
+      "name": "social-skype"
+    },
+    "f23e": {
+      "name": "social-skype-outline"
+    },
+    "f4ec": {
+      "name": "social-snapchat"
+    },
+    "f4eb": {
+      "name": "social-snapchat-outline"
+    },
+    "f241": {
+      "name": "social-tumblr"
+    },
+    "f240": {
+      "name": "social-tumblr-outline"
+    },
+    "f2c5": {
+      "name": "social-tux"
+    },
+    "f4ee": {
+      "name": "social-twitch"
+    },
+    "f4ed": {
+      "name": "social-twitch-outline"
+    },
+    "f243": {
+      "name": "social-twitter"
+    },
+    "f242": {
+      "name": "social-twitter-outline"
+    },
+    "f353": {
+      "name": "social-usd"
+    },
+    "f352": {
+      "name": "social-usd-outline"
+    },
+    "f245": {
+      "name": "social-vimeo"
+    },
+    "f244": {
+      "name": "social-vimeo-outline"
+    },
+    "f4f0": {
+      "name": "social-whatsapp"
+    },
+    "f4ef": {
+      "name": "social-whatsapp-outline"
+    },
+    "f247": {
+      "name": "social-windows"
+    },
+    "f246": {
+      "name": "social-windows-outline"
+    },
+    "f249": {
+      "name": "social-wordpress"
+    },
+    "f248": {
+      "name": "social-wordpress-outline"
+    },
+    "f24b": {
+      "name": "social-yahoo"
+    },
+    "f24a": {
+      "name": "social-yahoo-outline"
+    },
+    "f4f2": {
+      "name": "social-yen"
+    },
+    "f4f1": {
+      "name": "social-yen-outline"
+    },
+    "f24d": {
+      "name": "social-youtube"
+    },
+    "f24c": {
+      "name": "social-youtube-outline"
+    },
+    "f4f4": {
+      "name": "soup-can"
+    },
+    "f4f3": {
+      "name": "soup-can-outline"
+    },
+    "f2b2": {
+      "name": "speakerphone"
+    },
+    "f2b3": {
+      "name": "speedometer"
+    },
+    "f2b4": {
+      "name": "spoon"
+    },
+    "f24e": {
+      "name": "star"
+    },
+    "f2b5": {
+      "name": "stats-bars"
+    },
+    "f30b": {
+      "name": "steam"
+    },
+    "f24f": {
+      "name": "stop"
+    },
+    "f2b6": {
+      "name": "thermometer"
+    },
+    "f250": {
+      "name": "thumbsdown"
+    },
+    "f251": {
+      "name": "thumbsup"
+    },
+    "f355": {
+      "name": "toggle"
+    },
+    "f354": {
+      "name": "toggle-filled"
+    },
+    "f4f5": {
+      "name": "transgender"
+    },
+    "f252": {
+      "name": "trash-a"
+    },
+    "f253": {
+      "name": "trash-b"
+    },
+    "f356": {
+      "name": "trophy"
+    },
+    "f4f7": {
+      "name": "tshirt"
+    },
+    "f4f6": {
+      "name": "tshirt-outline"
+    },
+    "f2b7": {
+      "name": "umbrella"
+    },
+    "f357": {
+      "name": "university"
+    },
+    "f254": {
+      "name": "unlocked"
+    },
+    "f255": {
+      "name": "upload"
+    },
+    "f2b8": {
+      "name": "usb"
+    },
+    "f256": {
+      "name": "videocamera"
+    },
+    "f257": {
+      "name": "volume-high"
+    },
+    "f258": {
+      "name": "volume-low"
+    },
+    "f259": {
+      "name": "volume-medium"
+    },
+    "f25a": {
+      "name": "volume-mute"
+    },
+    "f358": {
+      "name": "wand"
+    },
+    "f25b": {
+      "name": "waterdrop"
+    },
+    "f25c": {
+      "name": "wifi"
+    },
+    "f2b9": {
+      "name": "wineglass"
+    },
+    "f25d": {
+      "name": "woman"
+    },
+    "f2ba": {
+      "name": "wrench"
+    },
+    "f30c": {
+      "name": "xbox"
+    }
+  }
+}
